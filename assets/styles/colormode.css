@@ -1,17 +1,17 @@
 /* Body element */
 body {
-    background-image: url('../../public/img/afbeelding_achtergrond_2.avif');
-    background-repeat: no-repeat;
-    background-size: 100%;
-    color: rgba(0,0,0,0.8);
+    background-color:#000000;
+    color: rgba(255, 255, 255, 0.8);
     }
     .light-mode body {
-    background-color: #ffffff;
+    background-color: #000000;
     
     color: #161717;
     }
     .dark-mode body {
-    background-color: #161715;
+    background-image: url('../../public/img/afbeelding_achtergrond_2.avif');
+    background-repeat: no-repeat;
+    background-size: 100%;
     color: #ebf4f1;
     }
     .gray-mode body {
