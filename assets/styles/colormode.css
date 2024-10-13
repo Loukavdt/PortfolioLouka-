@@ -4,19 +4,22 @@ body {
     color: rgba(255, 255, 255, 0.8);
     }
     .light-mode body {
-    background-color: #000000;
-    
-    color: #161717;
+    background-image: url('../../public/img/white-background.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: #000000;
     }
     .dark-mode body {
     background-image: url('../../public/img/afbeelding_achtergrond_2.avif');
     background-repeat: no-repeat;
     background-size: 100%;
-    color: #ebf4f1;
+    color: #ffffff;
     }
     .gray-mode body {
-    background-color: #c9d0d3;
-    color: #433422;
+    background-image: url('../../public/img/grey-background.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: #bfbfbf;
     }
     
     /* Active link */

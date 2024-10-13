@@ -14,6 +14,13 @@ included: true
 numbernavigation: 100
 promoted: "0"
 ---
-# Typografie is de eerste opdracht van Johan’s atelier. We gaan onderzoeken hoe we een korte tekst zo leesbaar en aantrekkelijk mogelijk kunnen maken, hoe we tekst en beeld kunnen combineren, en hoe we ons ontwerp aanpassen aan verschillende media. We moeten een quote van een designer uit het boek “Designer Maker User” van het Londense Design Museum in verschillende mediavormen weergeven: een bookspread, een affiche, een Instagram-post (geanimeerd en niet-geanimeerd), en één slide. Naast de quote komen ook de naam en een korte biografie van de designer, evenals de bronvermelding op ons ontwerp. Voor elk medium ontwerpen we een versie met en één zonder afbeelding. We moeten ervoor zorgen dat alle media in dezelfde stijl zijn ontworpen voor een consistente uitstraling.
+# Typografie is de eerste opdracht van Johan’s atelier. We gaan onderzoeken hoe we een korte tekst
+# zo leesbaar en aantrekkelijk mogelijk kunnen maken, hoe we tekst en beeld kunnen combineren, en
+# hoe we ons ontwerp aanpassen aan verschillende media. We moeten een quote van een designer
+# uit het boek “Designer Maker User” van het Londense Design Museum in verschillende mediavormen weergeven:
+# een bookspread, een affiche, een Instagram-post (geanimeerd en niet-geanimeerd), en één slide. Naast de
+# quote komen ook de naam en een korte biografie van de designer, evenals de bronvermelding
+# op ons ontwerp. Voor elk medium ontwerpen we een versie met en één zonder afbeelding.
+# We moeten ervoor zorgen dat alle media in dezelfde stijl zijn ontworpen voor een consistente uitstraling.
 
 
