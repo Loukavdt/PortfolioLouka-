@@ -10,6 +10,7 @@ imagegallery:
     - /img/typografie_2.png
     - /img/typografie_3.png
     - /img/typografie_4.png
+  
 thumbnail: /img/typografie.gif
 included: true
 numbernavigation: 100
